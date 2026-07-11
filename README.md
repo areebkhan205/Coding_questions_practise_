@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
