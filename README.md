@@ -34,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0875-koko-eating-bananas) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
