@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0931-minimum-falling-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1301-number-of-paths-with-max-score) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
