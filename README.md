@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0704-binary-search) |
+| [0741-cherry-pickup](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0741-cherry-pickup) |
 | [0875-koko-eating-bananas](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0931-minimum-falling-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1301-number-of-paths-with-max-score) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0064-minimum-path-sum) |
+| [0741-cherry-pickup](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0931-minimum-falling-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1301-number-of-paths-with-max-score) |
 ## Combinatorics
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0064-minimum-path-sum) |
+| [0741-cherry-pickup](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0931-minimum-falling-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1301-number-of-paths-with-max-score) |
 ## Database
