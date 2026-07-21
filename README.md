@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0576-out-of-boundary-paths) |
 | [0741-cherry-pickup](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1463-cherry-pickup-ii) |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0176-second-highest-salary) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
