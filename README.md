@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0741-cherry-pickup) |
 | [0875-koko-eating-bananas](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1463-cherry-pickup-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0064-minimum-path-sum) |
 | [0741-cherry-pickup](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1463-cherry-pickup-ii) |
 ## Combinatorics
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0064-minimum-path-sum) |
 | [0741-cherry-pickup](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1463-cherry-pickup-ii) |
 ## Database
