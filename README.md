@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0704-binary-search) |
 | [0741-cherry-pickup](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0741-cherry-pickup) |
 | [0875-koko-eating-bananas](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0875-koko-eating-bananas) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0605-can-place-flowers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
