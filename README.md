@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1463-cherry-pickup-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Combinatorics
 |  |
 | ------- |
@@ -92,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0994-rotting-oranges) |
+## Graph Theory
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
