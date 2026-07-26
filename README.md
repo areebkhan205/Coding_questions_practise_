@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 ## Topological Sort
 |  |
 | ------- |
@@ -112,8 +113,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 <!---LeetCode Topics End-->
