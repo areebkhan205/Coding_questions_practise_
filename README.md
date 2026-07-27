@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1463-cherry-pickup-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1463-cherry-pickup-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1301-number-of-paths-with-max-score) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1463-cherry-pickup-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1463-cherry-pickup-ii) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Database
 |  |
 | ------- |
@@ -98,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0994-rotting-oranges](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0994-rotting-oranges) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -114,9 +118,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 <!---LeetCode Topics End-->
