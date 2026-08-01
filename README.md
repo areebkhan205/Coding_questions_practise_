@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0605-can-place-flowers) |
+| [0695-max-area-of-island](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0704-binary-search) |
 | [0741-cherry-pickup](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0741-cherry-pickup) |
 | [0875-koko-eating-bananas](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0875-koko-eating-bananas) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0064-minimum-path-sum) |
+| [0695-max-area-of-island](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0695-max-area-of-island) |
 | [0741-cherry-pickup](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0994-rotting-oranges) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0994-rotting-oranges) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -129,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0695-max-area-of-island) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
