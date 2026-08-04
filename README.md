@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0542-01-matrix) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0239-sliding-window-maximum) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -154,4 +156,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1020-number-of-enclaves) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
