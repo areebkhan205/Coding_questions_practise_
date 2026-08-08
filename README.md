@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1301-number-of-paths-with-max-score) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1463-cherry-pickup-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Combinatorics
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Breadth-First Search
 |  |
 | ------- |
