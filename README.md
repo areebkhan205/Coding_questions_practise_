@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0283-move-zeroes) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0455-assign-cookies](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0605-can-place-flowers) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0213-house-robber-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0542-01-matrix) |
 | [0576-out-of-boundary-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0576-out-of-boundary-paths) |
 | [0741-cherry-pickup](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0741-cherry-pickup) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0695-max-area-of-island) |
 | [0741-cherry-pickup](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0741-cherry-pickup) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0994-rotting-oranges) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
@@ -134,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
@@ -153,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1020-number-of-enclaves) |
 ## Union-Find
@@ -177,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0239-sliding-window-maximum) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
