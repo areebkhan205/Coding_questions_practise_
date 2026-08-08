@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0516-longest-palindromic-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0542-01-matrix) |
 | [0576-out-of-boundary-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0576-out-of-boundary-paths) |
 | [0741-cherry-pickup](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0741-cherry-pickup) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0132-palindrome-partitioning-ii) |
+| [0516-longest-palindromic-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
