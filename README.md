@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0670-maximum-swap) |
 | [1323-maximum-69-number](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1323-maximum-69-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
