@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0141-linked-list-cycle) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Linked List
 |  |
 | ------- |
