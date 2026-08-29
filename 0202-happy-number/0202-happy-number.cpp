@@ -1,26 +1,20 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        set<int> vist;
 
-        while(n!=1 && vist.find(n)==vist.end()){
-            vist.insert(n);
+        while (n != 1 && n != 4) {
 
-            int sum=0;
+            int sum = 0;
 
-            while(n>0){
-                int digit=n%10;
-                sum=sum+digit*digit;
-             n/=10;
+            while (n > 0) {
+                int digit = n % 10;
+                sum += digit * digit;
+                n /= 10;
             }
-            n=sum;
+
+            n = sum;
         }
 
-        if(n==1){
-            return true;
-        }
-        else{
-            return  false;
-        }
+        return n == 1;
     }
 };
