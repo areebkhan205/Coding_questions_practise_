@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0239-sliding-window-maximum) |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
