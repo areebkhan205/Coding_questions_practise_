@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3875-construct-uniform-parity-array-i](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1323-maximum-69-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
