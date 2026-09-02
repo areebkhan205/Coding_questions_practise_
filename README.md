@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0455-assign-cookies](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0695-max-area-of-island) |
