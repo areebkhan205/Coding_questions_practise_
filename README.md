@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0542-01-matrix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3536-maximum-product-of-two-digits](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/3536-maximum-product-of-two-digits) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0347-top-k-frequent-elements) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0347-top-k-frequent-elements) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Linked List
 |  |
@@ -241,4 +245,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
