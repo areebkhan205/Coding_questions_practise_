@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0063-unique-paths-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0202-happy-number) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2062-count-vowel-substrings-of-a-string) |
