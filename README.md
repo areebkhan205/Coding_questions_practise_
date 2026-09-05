@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1043-partition-array-for-maximum-sum) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1301-number-of-paths-with-max-score) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1301-number-of-paths-with-max-score) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Graph Theory
