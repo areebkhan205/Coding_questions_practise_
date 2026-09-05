@@ -5,6 +5,7 @@ class Solution {
     void solve(int  i,int j ,vector<vector<char>> &grid){
             int m=grid.size();
            int n=grid[0].size();
+           grid[i][j]='0';
            for(int k=0;k<4;k++){
              int nr=dr[k]+i;
              int nc=dc[k]+j;
