@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0455-assign-cookies) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0516-longest-palindromic-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0542-01-matrix) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0695-max-area-of-island) |
@@ -283,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0104-maximum-depth-of-binary-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
