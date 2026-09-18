@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0695-max-area-of-island) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0494-target-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0542-01-matrix) |
 | [0576-out-of-boundary-paths](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0576-out-of-boundary-paths) |
@@ -290,8 +292,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
