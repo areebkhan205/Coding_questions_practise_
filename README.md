@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1143-longest-common-subsequence) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0322-coin-change) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0347-top-k-frequent-elements) |
@@ -305,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0494-target-sum) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
