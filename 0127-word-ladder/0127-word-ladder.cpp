@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
+        int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
 
         unordered_set<string> st(wordList.begin(), wordList.end());
         if(st.find(endWord) == st.end()) return 0;
@@ -31,7 +31,8 @@ public:
                 word[i] = original;
             }
         }
-
+        
         return 0;
+    
     }
 };
