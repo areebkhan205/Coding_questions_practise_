@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0670-maximum-swap) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1323-maximum-69-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0516-longest-palindromic-subsequence) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -317,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/3498-reverse-degree-of-a-string) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
