@@ -1,16 +1,16 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-      map<int,int> mpp;
-
-        for(int i=0;i<nums.size();i++){
-              int diff=target-nums[i];
-               auto it =mpp.find(diff);
-               if(it!=mpp.end()){
-                    return {i,it->second};
-               }
-               mpp[nums[i]]=i;
-        }
+             int n=nums.size();
+             for(int i=0;i<n;i++){
+                 for(int j=i+1;j<n;j++){
+                    int sum= nums[i]+nums[j];
+                       if(sum==target){
+                         return {i,j};
+                         break;
+                       }
+                 }
+             }
     return {-1,-1};
     }
 };
