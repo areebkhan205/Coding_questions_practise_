@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0213-house-robber-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0455-assign-cookies) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0347-top-k-frequent-elements) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -334,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/areebkhan205/Coding_questions_practise_/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
